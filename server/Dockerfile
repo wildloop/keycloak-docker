@@ -12,7 +12,7 @@ ENV LANG en_US.UTF-8
 
 ARG GIT_REPO
 ARG GIT_BRANCH
-ARG KEYCLOAK_DIST=https://github.com/wildloop/keycloak/releases/download/4.4.0-pl.Final/keycloak-4.4.0-pl.Final.tar.gz
+ARG KEYCLOAK_DIST=https://github.com/wildloop/keycloak-experiment/releases/download/4.4.0pl/keycloak-4.4.0-pl.Final.tar.gz
 
 USER root
 
